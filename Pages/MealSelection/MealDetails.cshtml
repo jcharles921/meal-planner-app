@@ -1,0 +1,14 @@
+﻿@page "{id:int}"
+@model MealPlanner.Pages.MealSelection.MealDetailsModel
+@{
+    ViewData["Title"] = "Meal Details";
+}
+
+<h2>@Model.Meal.Name</h2>
+
+<div class="meal-details">
+    <p><strong>Category:</strong> @Model.Meal.Category</p>
+    <p><strong>Description:</strong> @Model.Meal.Instructions</p>
+</div>
+
+<a asp-page="/MealSelection/BrowseMeals">Back to Browse Meals</a>
