@@ -1,0 +1,45 @@
+﻿@page
+@model MealPlanner.Pages.MealSelection.BrowseMealsModel
+@{
+    ViewData["Title"] = "Browse Meals";
+}
+
+<div class="container">
+    <h2 class="text-center my-4">Browse Meals</h2>
+
+    <div class="search-bar mb-4 d-flex justify-content-between">
+        <form method="get" class="d-flex w-100">
+            <input type="text" class="form-control me-2" name="SearchTerm" value="@Model.SearchTerm" placeholder="Search meals..." />
+            <select class="form-select me-2" name="Category">
+                <option value="">All Categories</option>
+                @foreach (var category in Model.Categories)
+                {
+                    <value="@category" @(category == Model.SelectedCategory ? "selected" : string.Empty)>@category</value>
+                }
+            </select>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var meal in Model.Meals)
+            {
+                <tr>
+                    <td>@meal.Name</td>
+                    <td>@meal.Category</td>
+                    <td>
+                        <a asp-page="/MealSelection/MealDetails" asp-route-id="@meal.MealID" class="btn btn-outline-primary btn-sm">View Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

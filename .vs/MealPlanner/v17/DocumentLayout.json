@@ -1,12 +1,551 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bouboune\\source\\repos\\jcharles921\\meal-planner-app\\MealPlanner\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\MealPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\weeklycalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\weeklycalendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\weeklycalendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\weeklycalendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\browsemeals.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\browsemeals.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\mealdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\mealdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\shoppinglist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\shoppinglist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\shoppinglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\shoppinglist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\migrations\\20241202093244_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:migrations\\20241202093244_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\browsemeals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\browsemeals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\wwwroot\\css\\mealplanner.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:wwwroot\\css\\mealplanner.styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\mealselection\\mealdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\mealselection\\mealdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\models\\scheduledmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:models\\scheduledmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\pages\\meals\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:pages\\meals\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\migrations\\20241130115859_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:migrations\\20241130115859_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|c:\\users\\user\\source\\repos\\mealplanner\\migrations\\20241130184328_addscheduledmeals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B5782-AE29-40E6-9C37-C8ECE303CE0A}|MealPlanner.csproj|solutionrelative:migrations\\20241130184328_addscheduledmeals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 367,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrowseMeals.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\BrowseMeals.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\BrowseMeals.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\BrowseMeals.cshtml.cs",
+              "RelativeToolTip": "Pages\\MealSelection\\BrowseMeals.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:38:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:39:09.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Meals\\Delete.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:38:02.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Meals\\Details.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:38:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Meals\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:38:02.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeeklyCalendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\WeeklyCalendar.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\WeeklyCalendar.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\WeeklyCalendar.cshtml",
+              "RelativeToolTip": "Pages\\MealSelection\\WeeklyCalendar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:28:49.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeeklyCalendar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\WeeklyCalendar.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\WeeklyCalendar.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\WeeklyCalendar.cshtml.cs",
+              "RelativeToolTip": "Pages\\MealSelection\\WeeklyCalendar.cshtml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:29:25.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Meals\\Create.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:38:01.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Meals\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:38:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:08:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoppingList.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\ShoppingList.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\ShoppingList.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\ShoppingList.cshtml",
+              "RelativeToolTip": "Pages\\MealSelection\\ShoppingList.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T20:10:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShoppingList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\ShoppingList.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\ShoppingList.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\ShoppingList.cshtml.cs",
+              "RelativeToolTip": "Pages\\MealSelection\\ShoppingList.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:11:17.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Models\\Meal.cs",
+              "RelativeDocumentMoniker": "Models\\Meal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Models\\Meal.cs",
+              "RelativeToolTip": "Models\\Meal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:29:27.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T11:34:15.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MealDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\MealDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\MealDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\MealDetails.cshtml.cs",
+              "RelativeToolTip": "Pages\\MealSelection\\MealDetails.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:53:29.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrowseMeals.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\BrowseMeals.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\BrowseMeals.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\BrowseMeals.cshtml",
+              "RelativeToolTip": "Pages\\MealSelection\\BrowseMeals.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T13:30:30.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241202093244_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Migrations\\20241202093244_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202093244_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Migrations\\20241202093244_AddIdentity.cs",
+              "RelativeToolTip": "Migrations\\20241202093244_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:32:44.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T09:52:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAACgmZmZmZk3wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:57:04.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MealPlanner.styles.css",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\wwwroot\\css\\MealPlanner.styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\MealPlanner.styles.css",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\wwwroot\\css\\MealPlanner.styles.css",
+              "RelativeToolTip": "wwwroot\\css\\MealPlanner.styles.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-02T08:56:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T20:26:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MealDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\MealDetails.cshtml",
+              "RelativeDocumentMoniker": "Pages\\MealSelection\\MealDetails.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\MealSelection\\MealDetails.cshtml",
+              "RelativeToolTip": "Pages\\MealSelection\\MealDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:52:18.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241130184328_AddScheduledMeals.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Migrations\\20241130184328_AddScheduledMeals.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241130184328_AddScheduledMeals.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Migrations\\20241130184328_AddScheduledMeals.cs",
+              "RelativeToolTip": "Migrations\\20241130184328_AddScheduledMeals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:43:28.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScheduledMeal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Models\\ScheduledMeal.cs",
+              "RelativeDocumentMoniker": "Models\\ScheduledMeal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Models\\ScheduledMeal.cs",
+              "RelativeToolTip": "Models\\ScheduledMeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:40:17.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Meals\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:38:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Meals\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:38:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Meals\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:38:02.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Meals\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:38:02.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Meals\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Pages\\Meals\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Meals\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:38:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241130115859_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Migrations\\20241130115859_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241130115859_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\Migrations\\20241130115859_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241130115859_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:59:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MealPlanner\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MealPlanner\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T09:50:41.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
